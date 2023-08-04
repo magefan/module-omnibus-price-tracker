@@ -4,7 +4,7 @@
 
 <img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
-<img align="right" width="120" height="120" src="[https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-google-tag-manager.jpg](https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-price-tracker.jpg)">
+<img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-price-tracker.jpg">
 
 [Magento 2 Google Tag Manager](https://magefan.com/magento-2-price-history)  is the extension that allows you to track prices in Magento 2 and display the lowest price on discounted or all products. It not only allows you to comply with the EU Omnibus Price Directive. You can provide a better customer experience by being transparent about your discounts and sales. 
 
@@ -121,12 +121,15 @@ https://magefan.com/contact
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
 
-## Documentation
+## [Documentation](https://magefan.com/magento-2-price-history/documentation)
 
 **General**
 * [How to install Magento 2 Omnibus Price Tracker?](https://magefan.com/magento-2-price-history/installation)
 * [How to update Magento 2 Omnibus Price Tracker?](https://magefan.com/magento-2-price-history/updating)
 * [How to uninstall Magento 2 Omnibus Price Tracker?](https://magefan.com/magento-2-price-history/uninstalling)
+  
+**Configuration**
+* [ How to Enable Price Tracking in Magento 2?](https://magefan.com/magento-2-price-history/enable-price-tracking)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 ### [Magento 2 Admin Panel Extensions](https://magefan.com/magento-2-extensions/admin-extensions)
