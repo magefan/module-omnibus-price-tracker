@@ -154,7 +154,8 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
   * [Magento 2 CLI Extension](https://magefan.com/magento2-cli-extension)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
   * [Magento 2 Google Customer Reviews](https://magefan.com/magento-2-google-customer-reviews)
-
+  * [Magento 2 Email Attachments](https://magefan.com/magento-2-email-attachments)
+    
 ### [Magento 2 Blog Extensions](https://magefan.com/magento-2-extensions/blog-extensions)
 
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
