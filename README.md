@@ -1,4 +1,4 @@
-# [Magento 2 Omnibus Price Tracker](https://magefan.com/magento-2-price-history) by Magefan
+# [Magento 2 Price History](https://magefan.com/magento-2-price-history) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,14 +6,13 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-price-tracker.jpg">
 
-[Magento 2 Google Tag Manager](https://magefan.com/magento-2-price-history)  is the extension that allows you to track prices in Magento 2 and display the lowest price on discounted or all products. It not only allows you to comply with the EU Omnibus Price Directive. You can provide a better customer experience by being transparent about your discounts and sales. 
+[Magento 2 Price History](https://magefan.com/magento-2-price-history)  is the extension that allows you to track prices in Magento 2 and display the lowest price on discounted or all products. It not only allows you to comply with the EU Omnibus Price Directive. You can provide a better customer experience by being transparent about your discounts and sales. 
 
 <a href="https://magefan.com/magento-2-price-history"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2-price-history#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
 
 ## Requirements
   * Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
   * [Magefan Community Extension](https://github.com/magefan/module-community) >= v2.1.13. Please install this extension first if you use installation via FTP.
-  * **Note** that extension is free only for the Magento Community (Open Source) Edition. For Magento EE, ECE, B2B you need to purchase the license at magefan.com.
 
 ## Benefits
 * Compliance with the EU Omnibus Price Directive
@@ -22,14 +21,14 @@
 
 ## Features
 
-* **Follow EU Omnibus Price Directive**
+### Follow EU Omnibus Price Directive
 
 Since EU Omnibus Directive requires you to display the lowest price within the last 30 days, you need to track the price changes first. This Magento 2 Omnibus Price Tracker tracks all price changes in your store within a specified period and shows them on the frontend.  
 
 However, it doesn’t only benefit you if you want to comply with the EU requirements. Your customers will really appreciate you being transparent about your prices. Thus, it offers a great customer experience.
 
 
-* **Track All Price Changes in Your Store**
+### Track All Price Changes in Your Store
 
 The price in your store changes all the time, regardless if you’re running sales or not. You set special prices, configure catalogue price rules, use mass action to edit prices, import updated products, set customer group prices or dimply edit product prices.
 
@@ -39,14 +38,13 @@ Our Price Tracker for Magento 2 will track all these changes within a specified 
   <img width="853" height="425" src="https://cm.magefan.com/catalog/display-omnibus-price-magento.png">
 </p>
 
-* **Show Omnibus Price on Products, Categories and Search Pages**
+### Show Omnibus Price on Products, Categories and Search Pages
 
 A purchasing decision might appear now only when your customers browse product pages. They may want to buy something they see on catalogue or search pages too. That’s why it is important to show Omnibus prices on all pages of your catalogue. 
 
 Magento 2 Omnibus Price Tracker Extension allows you to choose what pages to display the Omnibus prices on products/ categories/ search pages or all o them.
 
-
-* **Manage Price History**
+### Manage Price History
 
 Except for showing the lowest price over a certain period of time on the frontend, this Price Tracker for Magento 2 will store each price change in the price history. It enables you to track how the price of a certain product changes over time and adjust your pricing policy accordingly. 
 
@@ -56,7 +54,7 @@ Discover price change tendencies and customers' purchasing habits by managing Ma
   <img width="853" height="425" src="https://cm.magefan.com/catalog/price-history-in-magento-2.png">
 </p>
 
-* **Clean Price Changes Log**
+### Clean Price Changes Log
 
 If you change prices often, but don’t want to overload the system, you can manually delete any record from the price history in Magento 2. 
 
@@ -80,7 +78,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://prtr.demo.magefan.top/joust-duffle-bag.html">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-1.jpg"
-            alt="Magento 2 Omnibus Price History Storefront Demo"
+            alt="Magento 2 Price History Storefront Demo"
             height="220"
           >
         </a>
@@ -89,7 +87,7 @@ Try out our open demo and if you like our extension **please give us some star o
         <a href="https://prtr.demo.magefan.top/admin/magefan_pricetracker/change/index/">
           <img
             src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
-            alt="Magento 2 Omnibus Price History Admin Panel Demo"
+            alt="Magento 2 Price History Admin Panel Demo"
             height="220"
           >
         </a>
@@ -113,6 +111,7 @@ Try out our open demo and if you like our extension **please give us some star o
 ## Support
 If you have any issues, please [contact us](mailto:support@magefan.com)
 then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/module-omnibus-price-tracker/issues).
 
 ## Need More Features?
 Please contact us to get a quote
@@ -121,7 +120,7 @@ https://magefan.com/contact
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
 
-## [Documentation](https://magefan.com/magento-2-price-history/documentation)
+## Documentation
 
 **General**
 * [How to install Magento 2 Omnibus Price Tracker?](https://magefan.com/magento-2-price-history/installation)
