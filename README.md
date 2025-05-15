@@ -4,7 +4,7 @@
 
 [Magento 2 Price History](https://magefan.com/magento-2-price-history)  is the extension that allows you to track prices in Magento 2 and display the lowest price on discounted or all products. It not only allows you to comply with the EU Omnibus Price Directive. You can provide a better customer experience by being transparent about your discounts and sales. 
 
-Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
 <img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
 
